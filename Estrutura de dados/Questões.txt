@@ -1,2 +1,2 @@
-Qual é a profundidade da árvore formada? 4
+Qual é a profundidade da árvore formada? 3
 Quais são os nós que são nós folhas? 52, 133, 36, 64, 321, 523 e 422.
